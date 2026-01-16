@@ -1,0 +1,8 @@
+[package]
+name = "morphism"
+version = "0.1.0"
+edition = "2021"
+license = "UNLICENSED"
+repository = "https://github.com/Jabal-Engine/jabal_utils"
+publish = false
+

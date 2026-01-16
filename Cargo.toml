@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+tag-prefix = "{{crate_name}}/"
+no-publish = true
+
+members = [
+    "morphism",
+]
+
+[profile.dev]
+debug = true
+
+[profile.bench]
+debug = true
