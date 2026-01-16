@@ -1,4 +1,4 @@
-## `morphism`
+## `Morphism`
 
 A pre-release **showcase snapshot** of a Rust generic-programming DSL.
 
